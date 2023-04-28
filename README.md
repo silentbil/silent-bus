@@ -13,11 +13,11 @@ soon
 ## HACS manual Installation 
  - In the HACS Frontend, click the 3 dots in the upper right
  - Click 'Add Custom Repository'
- - Fill in the repo url https://github.com/silentbil/silent-buss and choose 'Lovelace' category.
+ - Fill in the repo url https://github.com/silentbil/silent-bus and choose 'Lovelace' category.
  - Install the custom card (should now appear in the Frontend)
  - HACS should automatically add the following to your resources:
 ```
-url: /hacsfiles/silent-buss/silent-buss.js
+url: /hacsfiles/silent-bus/silent-bus.js
 type: Javascript Module
 ```
 
