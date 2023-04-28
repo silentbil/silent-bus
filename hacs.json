@@ -1,0 +1,6 @@
+{
+  "name": "Silent buss card",
+  "filename": "silent-buss.js",
+  "render_readme": true,
+  "homeassistant": "0.95.4"
+}
