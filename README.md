@@ -7,7 +7,7 @@
 
 ## HACS Installation (Preferred option with updates)
 
-TBD
+soon
 
 ## HACS manual Installation 
  - In the HACS Frontend, click the 3 dots in the upper right
