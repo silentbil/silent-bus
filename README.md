@@ -1,4 +1,5 @@
-# Buss card for home assistant
+# Bus card for home assistant
+show real time bus information
 
 ## Demo
 
@@ -27,7 +28,7 @@ Add a Manual card to the dashboard and enter the YAML to configure it as desired
 | Name | Description | Default | Required |  Values |
 | --- | --- | --- | --- | --- |
 | `station` | station number | None | Yes  | string|
-| `bussLines` | buss lines | None | Yes | Array of numbers |
+| `busLines` | bus lines | None | Yes | Array of numbers |
 
 
 ## Find your station number
@@ -40,9 +41,9 @@ Add a Manual card to the dashboard and enter the YAML to configure it as desired
 ## Examples
 
 ```
-type: custom:silent-buss
+type: custom:silent-bus
 station: '24068'
-bussLines:
+busLines:
   - 249
   - 40
   - 605
