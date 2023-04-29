@@ -27,7 +27,7 @@ Add a Manual card to the dashboard and enter the YAML to configure it as desired
 ### Options
 | Name | Description | Default | Required |  Values |
 | --- | --- | --- | --- | --- |
-| `station` | station number | None | Yes  | string|
+| `station` | station number | None | Yes  | number |
 | `busLines` | bus lines | None | Yes | Array of numbers |
 
 
