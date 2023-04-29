@@ -125,6 +125,10 @@ function e(e,t,s,i){var r,n=arguments.length,o=n<3?t:null===i?i=Object.getOwnPro
       color: rgb(255, 255, 255);
       border-radius: 2px;
     }
+    
+    .isTomorrow {
+      
+    }
 
     .station-name {
       display: flex;
