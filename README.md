@@ -42,7 +42,7 @@ Add a Manual card to the dashboard and enter the YAML to configure it as desired
 
 ```
 type: custom:silent-bus
-station: '24068'
+station: 24068
 busLines:
   - 249
   - 40
