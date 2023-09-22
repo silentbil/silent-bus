@@ -1,4 +1,4 @@
-# Bus card for home assistant
+# Bus card for home assistant - Israel
 show real time bus and train information
 
 ## Demo
