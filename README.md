@@ -11,7 +11,7 @@ show real time bus and train information
 
 ## HACS Installation (Preferred option with updates)
 
-soon
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=silentbil&repository=silent-bus&category=plugin" target="_blank"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance and open a repository inside the Home Assistant Community Store." /></a>
 
 ## HACS manual Installation 
  - In the HACS Frontend, click the 3 dots in the upper right
