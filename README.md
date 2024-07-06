@@ -1,6 +1,10 @@
 # Bus card for home assistant - Israel
 show real time bus and train information
 
+If you like my hard work and want to help with server cost, consider buying me a coffee :)<br>
+<a href="https://www.buymeacoffee.com/silentbil" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
 ## Demo
 
 ![silentbuss1](https://user-images.githubusercontent.com/10948399/235174037-5a644b38-eece-475d-b9bf-6b88140e622f.png)
