@@ -9,6 +9,8 @@ If you like my hard work and want to help with server cost, consider buying me a
 
 ![silentbuss1](https://user-images.githubusercontent.com/10948399/235174037-5a644b38-eece-475d-b9bf-6b88140e622f.png)
 
+![img.png](light.png)
+
 ![image](https://github.com/silentbil/silent-bus/assets/10948399/8a05ab7c-a5ef-4b18-a735-27b5a07d5032)
 
 
@@ -73,4 +75,14 @@ busLines:
   - 249
   - 40
   - 605
+```
+
+## Examples - light train (kala)
+
+```
+type: custom:silent-bus
+station: 20719
+busLines:
+  - 1
+  - 3
 ```
