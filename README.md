@@ -47,8 +47,9 @@ Add a Manual card to the dashboard and enter the YAML to configure it as desired
 | `isTrain` | train card | false | Yes  | boolean |
 
 ## Find your station number - train
-
+** Important**: Train stations have changed</br>
 * Go to: [https://xn--4dbclabp0e.co.il/searchStations](https://github.com/silentbil/silent-bus/blob/main/train-stations) and search for your station
+Usually it will start with 17***, For example: "Tel Aviv Hashalom" = 17046
 
 ## Find your station number - bus
 
